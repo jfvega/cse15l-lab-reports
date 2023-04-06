@@ -1,6 +1,6 @@
 ---
 **Hello**
 *No*
--Nope
--Yup
--Boring
+- Nope
+- Yup
+- Boring
