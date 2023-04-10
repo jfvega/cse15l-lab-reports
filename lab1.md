@@ -21,5 +21,5 @@
 - **Open up Visual Studio Code and open up a new terminal.(Cntrl or Command +)**
 - **Now in the terminal you are going to run your first command. Ypu should use your account that you seen in step onew. In put into the terminal exactly like this: ssh cs15lsp23zz@ieng6.ucsd.edu (Remeber to switch zz to your own)**
 - **Once you input that press return. Now password should pop up. Enter your password that you made in step one. Note: Wait fifteen minutes after you created it.(Letters will not pop up while you type)** 
-- Once password is entered and you hit return. You should get some code at the bottom that looks like this:![Image](
+- **Once password is entered and you hit return. You should get some code at the bottom that looks like this:![Image](Screenshot 2023-04-09 at 7.53.23 PM.png)**
 
