@@ -28,7 +28,7 @@
 ## Step 4: Trying some commands
 - **Commands to run in terminal:**
 `cd ~` `cd` `ls -lat` `ls -a``ls <directory>` `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/` `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
-- ** You'll get some pretty interesting results.**
+- **You'll get some pretty interesting results.**
 - **Here is one example running ls -lat:![Image](Screenshot 2023-04-09 at 8.21.54 PM.png)**
 
 
