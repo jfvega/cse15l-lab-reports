@@ -8,4 +8,10 @@
 - **After you click that click the reset password hyper link. It should be the only reset password hyperlink.**
 - **IMPORTANT!! Use your cse15L username to reset**
 - **Once password is reset, you are done with step 1.**
-##Step 2: Download Visual Studio Code
+
+
+## Step 2: Download Visual Studio Code
+- **Go to [Link](https://code.visualstudio.com/) to download Visual Studio Code on your personal device**
+- **When opened you should get a screen like this. Choose the download that matches your device. From there it should download dtraightly to your computer.** [Image](
+-
+- 
