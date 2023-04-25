@@ -20,6 +20,6 @@
     assertArrayEquals(new int[]{5,4,3,2,1}, input1);
 	}`
   
-- Output: ![Image](
--Before: ![Image](Screenshot 2023-04-24 at 7.44.42 PM.png)
--After: ![Image](
+- Output: ![Image](Screenshot 2023-04-24 at 7.41.58 PM.png)
+- Before: ![Image](Screenshot 2023-04-24 at 7.44.42 PM.png)
+- After: ![Image](
