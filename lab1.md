@@ -5,7 +5,7 @@
 - **Go to this [Link](https://sdacs.ucsd.edu/~icc/index.php)**
 - **Input your username and id into the account lookup section**
 - **Once in, click the cse15lsp23zz(It should be your own in zz):** ![Image](Screenshot 2023-04-09 at 6.47.26 PM.png)
-- **After you click that click the reset password hyper link. It should be the only reset password hyperlink.**
+- **After you click that, click the reset password hyper link. It should be the only reset password hyperlink.**
 - **IMPORTANT!! Use your cse15L username to reset**
 - **Once password is reset, you are done with step 1.**
 
@@ -27,9 +27,12 @@
 
 ## Step 4: Trying some commands
 - **Commands to run in terminal:**
-`cd ~` `cd` `ls -lat` `ls -a``ls <directory>` `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/` `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
+-`cd ~`: This will get you the path before your current working directory
+-`cd`: This will show you the path directory of your current working directory
+-`ls -a`:This will show you every file in -a
+-`cat /home/linux/ieng6/cs15lsp23/public/hello.txt`: It will print what is in hello.txt
 - **You'll get some pretty interesting results.**
-- **Here is one example running ls -lat:![Image](Screenshot 2023-04-09 at 8.21.54 PM.png)**
+- **Here is one example running `ls -lat`(What is happening here is that it will list all the files and directories in you account. This is the all the contents in our working directory):![Image](Screenshot 2023-04-09 at 8.21.54 PM.png)**
 
 
 
