@@ -29,7 +29,7 @@
 - **Commands to run in terminal:**
 - `cd ~`: This will get you the path before your current working directory
 - `cd`: This will show you the path directory of your current working directory
-- `ls -a`:This will show you every file in -a
+- `ls -a`: This will show you every file in -a
 - `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`: It will print what is in hello.txt
 - **You'll get some pretty interesting results.**
 - **Here is one example running `ls -lat`(What is happening here is that it will list all the files and directories in you account. This is the all the contents in our working directory):![Image](Screenshot 2023-04-09 at 8.21.54 PM.png)**
