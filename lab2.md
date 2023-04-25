@@ -34,3 +34,7 @@
     }
   }`
 - **Why it works now: It works now because in the for loop we had to divide the array by two since we want the middle to tsay the same. Then I needed to set it as a variable so i made the new variable temp. In the lat line  I made sure the element stayed in the middle and made the variable equal to temp.**
+
+	
+## Part 3: What I learned
+- **During week 3, I found the URL very interesting. Before I had no idea what was in a url. I thought there was no patterns to them, and that it was all just random stuff made for each websites. But after learning, the domain, the paths, and the query it makes a lot more sense. Now when I look at the url, I can see what is happening and I notice it. It was also cool to see how to set up our own url. I had no idea we could do that with code, I just thought you always had to use a website like weebly or wix. I think it's my new favorite thing to make servers, and run stuff.**
