@@ -9,9 +9,17 @@
 
   
 ## Part 2: Bugs
-- Doesn't induce failure: `public void testReverseInPlace() {
-    int[] input1 = { 3 };
+- Doesn't induce failure: `public void testReverseINPlace() {
+    int[] input1 = { 15 };
     ArrayExamples.reverseInPlace(input1);
-    assertArrayEquals(new int[]{ 3 }, input1);
+    assertArrayEquals(new int[]{ 15 }, input1);
 	}`
-
+- Induces Failure : `public void testReverseInPlace2() {
+    int[] input1 = { 1,2,3,4,5 };
+    ArrayExamples.reverseInPlace(input1);
+    assertArrayEquals(new int[]{5,4,3,2,1}, input1);
+	}`
+  
+- Output: ![Image](
+-Before: ![Image](
+-After: ![Image](
