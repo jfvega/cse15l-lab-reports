@@ -28,7 +28,7 @@
 ## Step 4: Trying some commands
 - **Commands to run in terminal:**
 - `cd ~`: This will get you the path before your current working directory
-- `cd`: This will show you the path directory of your current working directory
+- `cd <path>`: This will change it to that directory or path
 - `ls -a`: This will show you every file in -a
 - `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`: It will print what is in hello.txt
 - **You'll get some pretty interesting results.**
