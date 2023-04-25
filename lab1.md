@@ -32,7 +32,7 @@
 - `ls -a`: This will show you every file in -a
 - `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`: It will print what is in hello.txt
 - **You'll get some pretty interesting results.**
-- **Here is one example running `ls -lat`(What is happening here is that it will list all the files and directories in you account. This is the all the contents in our working directory listed in a list speerated by each line. Each line begins with, owner followed by the file size. The created/modified date and time. And lastly the file/folder name as some of the attributes.):![Image](Screenshot 2023-04-09 at 8.21.54 PM.png)**
+- **Here is one example running `ls -lat`(What is happening here is that it will list all the files and directories in you account. This is the all the contents in our working directory listed in a list speerated by each line. Each line begins with the owner followed by the file size. Then the created/modified date and time. And lastly the file/folder name as some of the attributes.):![Image](Screenshot 2023-04-09 at 8.21.54 PM.png)**
 
 
 
