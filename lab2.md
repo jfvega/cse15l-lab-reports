@@ -33,7 +33,7 @@
       arr[arr.length-i-1]= temp;
     }
   }`
-- **Why it works now: It works now because in the for loop we had to divide the array by two since we want the middle to tsay the same. Then I needed to set it as a variable so i made the new variable temp. In the lat line  I made sure the element stayed in the middle and made the variable equal to temp.**
+- **Why it works now: It works now because in the for loop we had to divide the array by two since we want the middle to stay the same. Then I needed to set it as a variable so I made the new variable temp. In the lat line  I made sure the element stayed in the middle and made the variable equal to temp.**
 
 	
 ## Part 3: What I learned
