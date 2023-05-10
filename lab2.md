@@ -8,7 +8,7 @@
 - The first method called is the handlerequest. `public String handleRequest(URI url) {`: The URI in this example is the url, the url variable is then equal to http://localhost:2323/add-message?s=Jesse.
 - Now in this example, /add is found in the our url so that brings us to the else stament.
 - `String[] parameters = url.getQuery().split("=");` : This line then sets parameter equal ["s","Jesse"] as it splits the query into two strings. Strings because of the type before the parameter variable.
-- `if (parameters[0].equals("s")) {`: Parameters index 0 is equal to s so we move on with the if statemnet.
+- `if (parameters[0].equals("s")) {`: Parameters index 0 is equal to s so we move on with the if statement.
 - `String line2 = String.format(parameters[1]);`: line2 will equal the index 1 of parameter which is "Jesse". So the variable line2 is now eqaul to "Jesse" in this case.
 - `line += line2 + "\n";` : line will then add/equal line 2. So line will equal the string "Jesse"
 - `return String.format(line);`: This will finally return what we see in the code above. Line will equal that until you repeat, which will then change it. You will see that in the next step.
@@ -17,7 +17,8 @@
 - Note: The line variable is equal to the string Jesse as of now, since in our first step we set line equal to Jesse. 
 - The first method called is the handlerequest. `public String handleRequest(URI url) {`: The URI in this example is the url, the url variable is then equal to http://localhost:2323/add-message?s=Vega.
 - Now in this example, /add is found in the our url so that brings us to the else stament. 
-- `String[] parameters = url.getQuery().split("=");` : This line then sets parameter equal ["s","Vega"] as it splits the query into two strings. Strings because of the type before the parameter variable. 
+- `String[] parameters = url.getQuery().split("=");` : This line then sets parameter equal ["s","Vega"] as it splits the query into two strings. Strings because of the type before the parameter variable.
+- `if (parameters[0].equals("s")) {`: Parameters index 0 is equal to s so we move on with the if statement. 
 - `String line2 = String.format(parameters[1]);`: line2 will equal the index 1 of parameter which is "Vega". So the variable line2 is now eqaul to "Vega" in this case. 
 - `line += line2 + "\n";`: line will then add/equal line 2. It is importan to notice the `\n` because that starts the new line.
 - `return String.format(line);`:This will finally return what we see in the code above. The line variable will equal that until you repeat, which will then change it.
