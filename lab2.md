@@ -51,7 +51,7 @@
     }
   }`
 - **Why it didn't work before: Before the fix the last half of the array was not being reversed, it was just staying unchanged. In the for loop it did the entire array which it then rversed the second half of the array that we just reversed. Basically, it reveresed back into the original array, after we just changed it.**
-- **Why it works now: It works now because in the for loop we had to divide the array by two since we want the middle to stay the same. Then I needed to set it as a variable so I made the new variable temp. In the lat line  I made sure the element stayed in the middle and made the variable equal to temp.**
+- **Why it works now: It works now because in the for loop we had to divide the array by two since we want the middle to stay the same. Then I needed to set it as a variable so I made the new variable temp. In the last line  I made sure the element stayed in the middle and made the variable equal to temp.**
 
 	
 ## Part 3: What I learned
