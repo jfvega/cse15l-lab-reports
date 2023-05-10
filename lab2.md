@@ -14,7 +14,7 @@
 - `return String.format(line);`: This will finally return what we see in the code above. Line will equal that until you repeat, which will then change it. You will see that in the next step.
 - **Screenshot 2:** `http://localhost:2323/add-message?s=Vega`: ![Image](Screenshot 2023-04-24 at 7.01.36 PM.png)
 **What is happening:**
-- Note: The line variable is equal to the string Jesse as of now, since in our first step we set line equal to Jesse. 
+- Note: The line variable is equal to the string "Jesse" as of now, since in our first step we set line equal to Jesse. 
 - The first method called is the handlerequest. `public String handleRequest(URI url) {`: The URI in this example is the url, the url variable is then equal to `http://localhost:2323/add-message?s=Vega`.
 - Now in this example, /add is found in the our url so that brings us to the else stament. 
 - `String[] parameters = url.getQuery().split("=");` : This line then sets parameter equal ["s","Vega"] as it splits the query into two strings. Strings because of the type before the parameter variable.
