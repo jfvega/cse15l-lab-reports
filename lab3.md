@@ -14,7 +14,7 @@
 ![Image](Screenshot 2023-05-10 at 4.44.40 PM.png)
 **What is happening here: So the path command option looks for the path that you input. Where it says pattern that's where you would input the pattern. It will give you all the the possible paths that follow that pattern. Here there is just one. This is good when you are looking for the paths. Maybe it will help you figure out which directory you want to be in.**
 ![Image](Screenshot 2023-05-10 at 4.45.48 PM.png)
-**What is happening here: Agian the path command is looking for the path inputed. The * is like a fill in the blank. So anything could be in the star. It just has to follow the path inputed. This is good when we are looking for paths that kind of have similar paths.
+**What is happening here: Agian the path command is looking for the path inputed. The * is like a fill in the blank. So anything could be in the star. It just has to follow the path inputed. This is good when we are looking for paths that kind of have similar paths.**
 - **Command(Source: man find):"`-link ___`**
 ![Image](Screenshot 2023-05-10 at 7.21.50 PM.png)
 **What is happening here: The link option command is looking for a number of links. The __ is where you input how many links you want it to look for. This helpful when you are trying to find a certain link.** 
