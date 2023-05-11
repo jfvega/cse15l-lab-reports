@@ -7,7 +7,7 @@
 ![Image](Screenshot 2023-05-10 at 4.48.56 PM.png)
 ![Image](Screenshot 2023-05-10 at 4.10.05 PM.png)
 - Command:"`-path (Pattern)`
-![Image](
+![Image](Screenshot 2023-05-10 at 4.44.40 PM.png)
 ![Image](
 - Command:"`-or`
 ![Image](
