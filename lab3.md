@@ -1,7 +1,7 @@
 # Lab Report 3
 ## Researching Commands for find
 - Command:`-size ___`
-![Image](
+![Image](Screenshot 2023-05-10 at 4.15.49 PM.png)
 ![Image](
 - Command:`-type ___`
 ![Image](
