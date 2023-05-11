@@ -9,6 +9,6 @@
 - Command:"`-path (Pattern)`
 ![Image](Screenshot 2023-05-10 at 4.44.40 PM.png)
 ![Image](Screenshot 2023-05-10 at 4.45.48 PM.png)
-- Command:"`-or`
+- Command:"`-link ___`
 ![Image](
 ![Image](
