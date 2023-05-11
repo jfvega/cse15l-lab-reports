@@ -10,7 +10,7 @@
 **What is happening here: Here the find command is the type option to find a type. Our type we are looking for here is type f. The f standing for file, so it will find every file type that is in the 911 report. This is useful when you just want to find files and not directories.**
 ![Image](Screenshot 2023-05-10 at 4.10.05 PM.png)
 **What is happening here: Our type we are looking for here is type d. The d stands for directory. It will find all directories that are in technical directory. This is useful when you just want to find directories , and not files.**
-- Command(Source:[Link](https://man7.org/linux/man-pages/man1/find.1.html)):"`-path (Pattern)`
+- Command(Source: [Link](https://man7.org/linux/man-pages/man1/find.1.html)):"`-path (Pattern)`
 ![Image](Screenshot 2023-05-10 at 4.44.40 PM.png)
 **What is happening here: So the path command option looks for the path that you input. Where it says pattern that's where you would input the pattern. It will give you all the the possible paths that follow that pattern. Here there is just one. This is good when you are looking for the paths. Maybe it will help you figure out which directory you want to be in.**
 ![Image](Screenshot 2023-05-10 at 4.45.48 PM.png)
