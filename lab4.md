@@ -19,7 +19,7 @@ Keys pressed
 
 
 **4. Edit the code file to fix the failing test**
-
+![Image](Screenshot 2023-05-22 at 9.24.08 PM.png)
 Keys Pressed
 - `vim ListExamples.java`
 - `/index1 <enter>`
