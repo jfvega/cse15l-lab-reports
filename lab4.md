@@ -11,7 +11,7 @@ Keys pressed
 
 **2. Clone your fork of the repository from your Github account**
 ![Image](Screenshot 2023-05-22 at 9.04.56 PM.png)
-- `git clone https://github.com/ucsd-cse15l-s23/lab7`
+- `git clone git@github.com:jfvega/lab7.git`
 
 
 **3. Run the tests, demonstrating that they fail**
