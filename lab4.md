@@ -10,7 +10,7 @@ Keys pressed
 
 
 **2. Clone your fork of the repository from your Github account**
-![Image](Screenshot 2023-05-22 at 9.04.56 PM.png)
+![Image](Screenshot 2023-05-22 at 9.37.39 PM.png)
 - `git clone git@github.com:jfvega/lab7.git`
 
 
