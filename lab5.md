@@ -15,11 +15,11 @@
 
 **3.All setup**
 
--To begin working you need to make sure you are in the right directory/repository. This should be the grader-skill-demo2.
+- To begin working you need to make sure you are in the right directory/repository. This should be the grader-skill-demo2.
 ![Image](Screenshot 2023-06-05 at 4.29.47 PM.png)
--Run using bash to see if grade.sh is working.
+- Run using bash to see if grade.sh is working.
 ![Image](Screenshot 2023-06-05 at 4.38.42 PM.png)
--Next you need to open up your contents in grade.sh since that is where your bug is.
+- Next you need to open up your contents in grade.sh since that is where your bug is.
 - Command line: `vim grade.sh`
 - Then fix the bug by adding .java to the end of ListExamples on line 11
 ![Image](Screenshot 2023-06-05 at 4.27.45 PM.png)
