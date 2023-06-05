@@ -1,6 +1,6 @@
 ## Lab 5
 # Part 1: Debugging Scenerio
-1.
+
 ![Image](Screenshot 2023-06-05 at 4.17.24 PM.png)
 ![Image](Screenshot 2023-06-05 at 4.17.38 PM.png)
 
