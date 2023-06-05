@@ -14,7 +14,8 @@
 ![Image](Screenshot 2023-06-05 at 4.27.12 PM.png)
 
 **All setup**
--To begine working you need to make sure you are in the right directory/repository. This should be the grader-skill-demo2.
+
+-To begin working you need to make sure you are in the right directory/repository. This should be the grader-skill-demo2.
 ![Image](Screenshot 2023-06-05 at 4.29.47 PM.png)
 -Run using bash to see if grade.sh is working.
 ![Image](Screenshot 2023-06-05 at 4.38.42 PM.png)
