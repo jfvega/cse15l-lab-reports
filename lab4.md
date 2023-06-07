@@ -23,7 +23,7 @@ Keys pressed
 
 
 **7. Edit the code file to fix the failing test**
-![Image](Screenshot 2023-05-22 at 9.24.08 PM.png)
+![Image](Screenshot 2023-06-07 at 2.41.20 PM.png)
 Keys Pressed
 - `vim ListExamples.java`:The vim command will open the ListExamples.java in your terminal.
 - `/index1 <enter>`: Here I am searching up the word index1. Vim will only go to words that follow that pattern.
