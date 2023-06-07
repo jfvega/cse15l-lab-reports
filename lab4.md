@@ -15,7 +15,7 @@ Keys pressed
 
 
 **3. Run the tests, demonstrating that they fail**
-- I am not sure how to run the tests I am having trouble doing that. Any clues?
+- `
 
 
 **4. Edit the code file to fix the failing test**
@@ -29,7 +29,7 @@ Keys Pressed
 
 
 **5. Run the tests, demonstrating that they now succeed**
-- I am also not sure how to do this
+- `
 
 
 **6. Commit and push the resulting change to your Github account**
